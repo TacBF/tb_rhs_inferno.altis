@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Inferno">
+
+	<Key ID="STR_TB_missionTitle_TB_Inferno">
+		<Original>Inferno</Original>
+		<English>Inferno</English>
+		<German>Inferno</German>
+		<Italian>Inferno</Italian>
+		<Spanish>Inferno</Spanish>
+		<French>Inferno</French>
+		<Czech>Inferno</Czech>
+		<Russian>Inferno</Russian>
+		<Polish>Inferno</Polish>
+		<Hungarian>Inferno</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Inferno">
+		<Original>TacBF A&amp;S[T-10]: Inferno</Original>
+		<English>TacBF A&amp;S[T-10]: Inferno</English>
+		<German>TacBF A&amp;S[T-10]: Inferno</German>
+		<Italian>TacBF A&amp;S[T-10]: Inferno</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Inferno</Spanish>
+		<French>TacBF A&amp;S[T-10]: Inferno</French>
+		<Czech>TacBF A&amp;S[T-10]: Inferno</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Inferno</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Inferno</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Inferno</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
